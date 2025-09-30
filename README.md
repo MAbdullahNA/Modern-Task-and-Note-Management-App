@@ -2,7 +2,8 @@
 
 A beautiful, feature-rich task management and note-taking application built with React and Tailwind CSS, featuring a sophisticated wine-themed design system.
 
-![Tasks & Notes Demo](./public/demo1.png) (./public/demo2.png)
+![Tasks & Notes Demo](./public/demo1.png)
+![Tasks & Notes Demo](./public/demo2.png)
 
 ## Features
 
