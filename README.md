@@ -59,7 +59,7 @@ A beautiful, feature-rich task management and note-taking application built with
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/taskflow-app.git
+git clone https://github.com/Sagarika311/taskflow-app.git
 cd taskflow-app
 ```
 
